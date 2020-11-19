@@ -28,6 +28,6 @@ void TestVectorSet(int sz, int ValueToFind)
 	// measure IntSet.find(ValueToFind);
 }
 
-void main()
+int main()
 {
 }
