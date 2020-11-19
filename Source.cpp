@@ -30,4 +30,5 @@ void TestVectorSet(int sz, int ValueToFind)
 
 int main()
 {
+	cout << "1"
 }
